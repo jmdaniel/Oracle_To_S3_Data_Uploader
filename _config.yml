@@ -1,0 +1,8 @@
+title: Oracle to s3 data uploader
+description: Data streamer from Oracle to Amazon-S3
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
